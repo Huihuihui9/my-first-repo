@@ -9,3 +9,5 @@ Git 学习笔记
 - git pull      拉取远程更新
 - git diff      查看修改内容
 - git log       查看提交历史
+- git branch    管理分支
+- git merge     合并分支
